@@ -17,7 +17,7 @@ OpenSpending.Styles = OpenSpending.Styles || {};
 
 OpenSpending.Styles.Cofog = {
 
-  /* mito cofog */
+  /* koganei cofog */
   '1': { icon: 'icons/legislative.svg', color: '#C75746', bcolor: '#935B3B' }, // 議会費
   '101': { icon: 'icons/legislative.svg', color: '#C75746', bcolor: '#935B3B' }, // 議会費 議会費
   '2': { icon: 'icons/publicaffairs.svg', color: '#C75746', bcolor: '#0AB971' }, // 総務費
@@ -41,7 +41,7 @@ OpenSpending.Styles.Cofog = {
   '11': { icon: 'icons/order-safety.svg', color: '#C75746', bcolor: '#935B3B' }, // 災害復旧費
   '1101': { icon: 'icons/order-safety.svg', color: '#C75746', bcolor: '#935B3B' }, // 災害復旧費 災害復旧費
   '12': { icon: 'icons/order-safety.svg', color: '#C75746', bcolor: '#D36B3B' }, // 公債費
-  '1201': { icon: 'icons/order-safety.svg', color: '#C75746', bcolor: '#D36B3B' }, // 公債費
+  '1201': { icon: 'icons/order-safety.svg', color: '#C75746', bcolor: '#D36B3B' }, // 公債費 公債費
   '13': { icon: 'icons/admin.svg', color: '#C75746', bcolor: '#C35B4B' }, // 予備費
   '1301': { icon: 'icons/admin.svg', color: '#C75746', bcolor: '#C35B4B' }  // 予備費 予備費
 };
